@@ -11,6 +11,6 @@ pytest
 
 pytest
 tox
-black
+black==24.4.2
 flake8
-mypy
+mypy==1.10.0
